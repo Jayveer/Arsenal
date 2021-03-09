@@ -1,0 +1,4 @@
+#include "game.h"
+
+_GAME GAME = SNAKE_EATER;
+_PLATFORM PLATFORM = PS2;
